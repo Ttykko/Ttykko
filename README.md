@@ -57,5 +57,5 @@ Plataforma comercial Jamstack (React 18, TypeScript, Vite) diseñada para optimi
 ### 📫 Contacto y Conexiones Profesionales
 Abierto a proponer y diseñar arquitecturas de software eficientes, optimizar motores de bases de datos relacionales o discutir soluciones tecnológicas orientadas a la logística pesada y la industria:
 
-* **Plataforma de Operaciones:** [diver.cl](https://diver.cl)
+* **Plataforma de Operaciones:** diver.cl *(Migración a arquitectura Full-Stack Node.js/MySQL en proceso de despliegue)*
 * **GitHub:** Explora el código de mis repositorios o abre un Pull Request si quieres colaborar.
