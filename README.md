@@ -2,7 +2,7 @@
 
 **Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional/Operaciones Submarinas: Región de Los Lagos & Región de Aysén ⚓
 
-Mi perfil une la formación analítica de la Federico Santa María con la disciplina operativa del Buceo Profesional y la Logística Portuaria. Como ex-operador de maquinaria pesada y Gate Control en San Antonio, viví en terreno la importancia crítica de la integridad de los datos y la trazabilidad en procesos de alta presión.
+Mi perfil une la formación analítica de la Federico Santa María con la disciplina operativa del Buceo Profesional y la Logística Portuaria. Como ex-operador de maquinaria Reach Stacker (Portacontenedores) y Gate Control en San Antonio, viví en terreno la importancia crítica de la integridad de los datos y la trazabilidad en procesos de alta presión.
 
 Hoy, transformo esa experiencia en soluciones tecnológicas robustas. Especializado en Node.js y MySQL 9, desarrollo lógica backend y gestiono bases de datos que digitalizan la logística pesada y la industria, aplicando el mismo rigor, precisión y gestión de riesgos que exige una inmersión profesional o una faena portuaria.
 
