@@ -1,7 +1,6 @@
 # ¡Hola! Soy Alberto Roblero 👋
 
-**Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional**  
-📍 Área Metropolitana de Santiago, Chile 🇨🇱
+**Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional/Operaciones Submarinas: Región de Los Lagos & Región de Aysén ⚓
 
 Mi perfil une la formación analítica de la Federico Santa María con la disciplina operativa del Buceo Profesional y la Logística Portuaria. Como ex-operador de maquinaria pesada y Gate Control en San Antonio, viví en terreno la importancia crítica de la integridad de los datos y la trazabilidad en procesos de alta presión.
 
