@@ -1,58 +1,62 @@
-# ¡Hola! Soy Ttykko 👋
+# ¡Hola! Soy Alberto Roblero 👋
 
-Soy **Desarrollador Full-Stack** basado en la Región de Los Lagos, Chile 🇨🇱. No construyo proyectos de tutorial ni clones de práctica; me dedico a diseñar, refactorizar y desplegar plataformas de software reales, escalables y orientadas a la conversión comercial y alta disponibilidad.
+**Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional**  
+📍 Área Metropolitana de Santiago, Chile 🇨🇱
 
-Manejo datos transaccionales, sincronización en tiempo real mediante eventos asíncronos y arquitecturas desacheadas modernas (API + Cliente).
+Mi perfil une la formación analítica de la Federico Santa María con la disciplina operativa del Buceo Profesional y la Logística Portuaria. Como ex-operador de maquinaria pesada y Gate Control en San Antonio, viví en terreno la importancia crítica de la integridad de los datos y la trazabilidad en procesos de alta presión.
+
+Hoy, transformo esa experiencia en soluciones tecnológicas robustas. Especializado en Node.js y MySQL 9, desarrollo lógica backend y gestiono bases de datos que digitalizan la logística pesada y la industria, aplicando el mismo rigor, precisión y gestión de riesgos que exige una inmersión profesional o una faena portuaria.
+
+Mi objetivo: Optimizar la operación industrial mediante software eficiente, escalable y diseñado para el mundo real.
 
 ---
 
-### 💻 Mi Arsenal Tecnológico (Stack Real)
+### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
 ![Node.js](https://shields.io)
 ![MySQL](https://shields.io)
 ![TypeScript](https://shields.io)
-![React 18](https://shields.io)
 ![Socket.io](https://shields.io)
 
-* **Backend & Concurrencia:** Node.js v24, Express, APIs RESTful sólidas y Socket.io (Manejo de estados concurrentes y comunicación bidireccional limpia).
-* **Bases de Datos:** MySQL 9.0+ (Modelado relacional estricto, Pools de conexiones optimizados, indexación avanzada y lógica transaccional atómica).
-* **Frontend de Vanguardia:** React 18, TypeScript (Tipado estático seguro en tiempo de ejecución), Vite, y CSS3 Avanzado (Efectos estéticos avanzados como **Glassmorphism UI** y layouts responsivos híbridos Grid/Flexbox).
-* **Seguridad E2E:** Consultas preparadas anti-Inyección SQL (librería `mysql2`), encriptación criptográfica (`bcryptjs` / SHA256), saneamiento estricto de entradas (`encodeURIComponent`), mitigación de vulnerabilidades *Tabnabbing* (`rel="noopener noreferrer"`) y gestión segura de credenciales mediante aislamiento en variables de entorno `.env`.
+* **Desarrollo Backend:** Node.js v24, Express, APIs RESTful modulares, arquitectura limpia y manejo global de excepciones.
+* **Bases de Datos & Persistencia:** MySQL 9.0+ (Estrategias transaccionales complejas, Pools de conexiones relacionales, optimización de latencia e indexación avanzada).
+* **Tiempo Real y Concurrencia:** Socket.io (Sincronización asíncrona de eventos de alta frecuencia y manejo de estados concurrentes).
+* **Seguridad E2E:** Consultas preparadas anti-Inyección SQL (librería `mysql2`), encriptación criptográfica (`bcryptjs`), saneamiento de entradas y aislamiento seguro con variables de entorno (`.env`).
+* **Frontend de Soporte:** Integración de componentes ágiles con React 18, TypeScript, Vite y desarrollo de interfaces funcionales adaptadas a UX/UI móvil (Glassmorphism).
 
 ---
 
-### 🚀 Ecosistema de Producción y Desarrollo
+### 🚀 Ecosistema de Sistemas y Software para el Mundo Real
 
 #### 🤿 [V/ADiver Pro — Sistema de Operaciones y Reservas](https://github.com)
-Ecosistema comercial real bajo el dominio **diver.cl** enfocado en el turismo aventura, bautismos submarinos y venta de hardware técnico en Maullín, Calbuco y Puerto Montt.
-* **Ingeniería:** Refactorización total desde una infraestructura estática a un backend estructurado con Node.js y MySQL 9.0.
-* **Checkout Resiliente:** Arquitectura transaccional de carritos y automatización con la API de **Mercado Pago** mediante Webhooks (IPN) asíncronos para el control estricto de cupos y prevención de condiciones de carrera (*Race Conditions*).
-
-#### 💐 [Florería Premium — Landing Page de Conversión Directa](https://github.com)
-Plataforma estática estructurada bajo arquitectura Jamstack comercial, diseñada para maximizar el ROI eliminando costos operativos de base de datos y servidores de cómputo.
-* **Lógica en el Cliente:** Sistema que calcula dinámicamente descuentos promocionales en CLP según reglas de negocio complejas en tiempo de ejecución y automatiza el flujo de salida formateado directo a la API de WhatsApp.
-* **Manejo del DOM:** Control granular de carruseles táctiles independientes mediante un diccionario de referencias indexado con `useRef` (React Hooks), evitando renderizados globales innecesarios.
+Ecosistema comercial Full-Stack real bajo el dominio **diver.cl** enfocado en la gestión de turismo aventura, bautismos submarinos y comercialización de equipamiento técnico en la Región de Los Lagos.
+* **Arquitectura de Datos:** Refactorización de infraestructura estática hacia un backend resiliente con Node.js y MySQL 9.0.
+* **Mitigación de Riesgos:** Lógica transaccional de checkout diseñada para prevenir condiciones de carrera (*Race Conditions*) en la reserva de cupos críticos. Integración avanzada con la API de **Mercado Pago** mediante Webhooks (IPN) asíncronos.
 
 #### 🏄‍♂️ [Surf Resources Adventure — Edición Pro](https://github.com)
-Evolución arquitectónica radical del prototipo original **Fumanji** desarrollado inicialmente en Python (CLI) en 2022.
-* **Tiempo Real:** Convertido en un juego web multijugador asíncrono y concurrente mediante Socket.io.
-* **Persistencia Robusta:** Esquema relacional en MySQL compuesto por 4 entidades críticas con indexación avanzada para renderizar clasificaciones globales (*Leaderboards*) en tiempo real de alta frecuencia de datos.
+Evolución arquitectónica radical de un prototipo analítico lineal desarrollado originalmente en Python (CLI) en 2022.
+* **Ingeniería Concurrente:** Transformado en un motor web multijugador asíncrono en tiempo real utilizando Socket.io.
+* **Trazabilidad de Datos:** Esquema relacional estructurado en MySQL compuesto por 4 entidades críticas con indexación avanzada para el procesamiento y despliegue de clasificaciones globales (*Leaderboards*) en tiempo real de alto tráfico.
+
+#### 💐 [Florería Premium — Landing Page de Conversión Directa](https://github.com)
+Plataforma comercial Jamstack (React 18, TypeScript, Vite) diseñada para optimizar los flujos de conversión de un comercio local a costo cero de servidor.
+* **Lógica en el Cliente:** Implementación de algoritmos en tiempo de ejecución para el cálculo dinámico de descuentos en CLP según reglas de negocio y automatización de la API de WhatsApp mediante tramas de texto sanitizadas (`encodeURIComponent`).
 
 ---
 
-### 📊 Repositorios Activos
+### 📊 Repositorios del Ecosistema
 
-| Repositorio | Tipo / Enfoque Técnico | Estado |
-| :--- | :--- | :--- |
-| ⚓ **[diver.cl](https://github.com)** | Sistema Comercial Transaccional (Node.js, MySQL) | Operacional (Producción) |
-| 💐 **[floreria-react](https://github.com)** | UI Premium Jamstack (React 18, TypeScript, Vite) | Completado |
-| 🏄‍♂️ **[surf-game-web-pro](https://github.com)** | Concurrencia y Sincronización en Tiempo Real (Socket.io) | Completado |
-| 🎲 **[fumanji](https://github.com)** | Núcleo Lógico de Algoritmos (Python CLI) | Legado Histórico |
+| Repositorio | Enfoque Técnico | Tecnologías Clave | Estado |
+| :--- | :--- | :--- | :--- |
+| ⚓ **[diver.cl](https://github.com)** | Sistema Comercial Transaccional | Node.js v24, MySQL 9.0, JS Vanilla | Operacional |
+| 🏄‍♂️ **[surf-game-web-pro](https://github.com)** | Concurrencia y Sincronización Realtime | Node.js, Socket.io, MySQL | Completado |
+| 💐 **[floreria-react](https://github.com)** | Arquitectura Jamstack y Lógica Cliente | React 18, TypeScript, Vite | Completado |
+| 🎲 **[fumanji](https://github.com)** | Algoritmos y Estructura Lógica Base | Python (CLI Core) | Legado Histórico |
 
 ---
 
-### 📫 Contacto y Colaboraciones
-Abierto a debatir sobre arquitecturas de software de alto rendimiento, optimización de sistemas en producción o para coordinar una inmersión de buceo técnico en las frías aguas del sur de Chile:
+### 📫 Contacto y Conexiones Profesionales
+Abierto a proponer y diseñar arquitecturas de software eficientes, optimizar motores de bases de datos relacionales o discutir soluciones tecnológicas orientadas a la logística pesada y la industria:
 
-* **Plataforma Oficial:** [diver.cl](https://diver.cl)
-* **GitHub:** Explora mis códigos, analiza los esquemas de bases de datos o abre un Pull Request si encuentras algo que mejorar.
+* **Plataforma de Operaciones:** [diver.cl](https://diver.cl)
+* **GitHub:** Explora el código de mis repositorios o abre un Pull Request si quieres colaborar.
