@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alberto Roblero 👋
 
-**Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional/Operaciones Submarinas: Región de Los Lagos & Región de Aysén ⚓
+  Ingeniero Informático (e) | Programador Backend (Node.js) | Técnico en Programación y Análisis de Sistemas | Especialista en Logística Industrial & Operaciones Portuarias | Bases de Datos MySQL | Buzo Profesional/Operaciones Submarinas: Región de Los Lagos & Región de Aysén ⚓
 
 Mi perfil une la formación analítica de la Federico Santa María con la disciplina operativa del Buceo Profesional y la Logística Portuaria. Como ex-operador de maquinaria Reach Stacker (Portacontenedores) y Gate Control en San Antonio, viví en terreno la importancia crítica de la integridad de los datos y la trazabilidad en procesos de alta presión.
 
@@ -38,17 +38,17 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 
 ### 🚀 Ecosistema de Sistemas y Software para el Mundo Real
 
-#### 🤿 [V/ADiver Pro — Sistema de Operaciones y Reservas](https://github.com)
+#### 🤿 [V/ADiver Pro — Sistema de Operaciones y Reservas](https://github.com/Ttykko/diver.cl)
 Ecosistema comercial Full-Stack real bajo el dominio **diver.cl** enfocado en la gestión de turismo aventura, bautismos submarinos y comercialización de equipamiento técnico en la Región de Los Lagos.
 * **Arquitectura de Datos:** Refactorización de infraestructura estática hacia un backend resiliente con Node.js y MySQL 9.0.
 * **Mitigación de Riesgos:** Lógica transaccional de checkout diseñada para prevenir condiciones de carrera (*Race Conditions*) en la reserva de cupos críticos. Integración avanzada con la API de **Mercado Pago** mediante Webhooks (IPN) asíncronos.
 
-#### 🏄‍♂️ [Surf Resources Adventure — Edición Pro](https://github.com)
+#### 🏄‍♂️ [Surf Resources Adventure — Edición Pro](https://github.com/Ttykko/surf-game-web-pro)
 Evolución arquitectónica radical de un prototipo analítico lineal desarrollado originalmente en Python (CLI) en 2022.
 * **Ingeniería Concurrente:** Transformado en un motor web multijugador asíncrono en tiempo real utilizando Socket.io.
 * **Trazabilidad de Datos:** Esquema relacional estructurado en MySQL compuesto por 4 entidades críticas con indexación avanzada para el procesamiento y despliegue de clasificaciones globales (*Leaderboards*) en tiempo real de alto tráfico.
 
-#### 💐 [Florería Premium — Landing Page de Conversión Directa](https://github.com)
+#### 💐 [Florería Premium — Landing Page de Conversión Directa](https://github.com/Ttykko/floreria-react)
 Plataforma comercial Jamstack (React 18, TypeScript, Vite) diseñada para optimizar los flujos de conversión de un comercio local a costo cero de servidor.
 * **Lógica en el Cliente:** Implementación de algoritmos en tiempo de ejecución para el cálculo dinámico de descuentos en CLP según reglas de negocio y automatización de la API de WhatsApp mediante tramas de texto sanitizadas (`encodeURIComponent`).
 
