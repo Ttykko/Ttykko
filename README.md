@@ -12,10 +12,11 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 
 ### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
-<img src="https://shields.io" alt="Node.js">
-<img src="https://shields.io" alt="MySQL">
-<img src="https://shields.io" alt="TypeScript">
-<img src="https://shields.io" alt="Socket.io">
+![Node.js](https://badgen.net)
+![MySQL](https://badgen.net)
+![TypeScript](https://badgen.net)
+![Socket.io](https://badgen.net)
+
 
 
 
