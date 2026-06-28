@@ -19,9 +19,15 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 
 ### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
-<img alt="Node.js" src="https://shields.io" height="22"> <img alt="MySQL" src="https://shields.io" height="22"> <img alt="Socket.io" src="https://shields.io" height="22"> <img alt="TypeScript" src="https://shields.io" height="22">
+<p align="left">
+  <img src="https://githubusercontent.com" alt="Node.js" width="30" height="30" style="background-color: #339933; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="MySQL" width="30" height="30" style="background-color: #4479A1; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="Socket.io" width="30" height="30" style="background-color: #010101; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
+  <img src="https://githubusercontent.com" alt="TypeScript" width="30" height="30" style="background-color: #3178C6; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
+</p>
 
 <br/>
+
 
 
 
