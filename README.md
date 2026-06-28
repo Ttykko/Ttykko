@@ -17,6 +17,7 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 ![TypeScript](https://shields.io)
 ![Socket.io](https://shields.io)
 
+
 * **Desarrollo Backend:** Node.js v24, Express, APIs RESTful modulares, arquitectura limpia y manejo global de excepciones.
 * **Bases de Datos & Persistencia:** MySQL 9.0+ (Estrategias transaccionales complejas, Pools de conexiones relacionales, optimización de latencia e indexación avanzada).
 * **Tiempo Real y Concurrencia:** Socket.io (Sincronización asíncrona de eventos de alta frecuencia y manejo de estados concurrentes).
