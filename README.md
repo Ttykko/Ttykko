@@ -12,10 +12,11 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 
 ### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
-![Node.js](https://shields.io)
-![MySQL](https://shields.io)
-![TypeScript](https://shields.io)
-![Socket.io](https://shields.io)
+<img src="https://shields.io" alt="Node.js">
+<img src="https://shields.io" alt="MySQL">
+<img src="https://shields.io" alt="TypeScript">
+<img src="https://shields.io" alt="Socket.io">
+
 
 
 * **Desarrollo Backend:** Node.js v24, Express, APIs RESTful modulares, arquitectura limpia y manejo global de excepciones.
