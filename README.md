@@ -16,10 +16,7 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 ](https://img.shields.io/badge/Node.js-339933
 [)![MySQL](https://badgen.net)
 ](https://img.shields.io/badge/MySQL-4479A1
-[)![TypeScript](https://badgen.net)
-](https://img.shields.io/badge/TypeScript-3178C6
-[)![Socket.io](https://badgen.net)](https://img.shields.io/badge/Socket.io-010101
-)
+[)<img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3178C6">
 
 
 
