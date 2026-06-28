@@ -19,14 +19,12 @@ Mi objetivo: Optimizar la operación industrial mediante software eficiente, esc
 
 ### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
-<p align="left">
-  <img src="https://githubusercontent.com" alt="Node.js" width="30" height="30" style="background-color: #339933; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
-  <img src="https://githubusercontent.com" alt="MySQL" width="30" height="30" style="background-color: #4479A1; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
-  <img src="https://githubusercontent.com" alt="Socket.io" width="30" height="30" style="background-color: #010101; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
-  <img src="https://githubusercontent.com" alt="TypeScript" width="30" height="30" style="background-color: #3178C6; padding: 5px; border-radius: 4px; margin-right: 10px;"/>
-</p>
+### 💻 Mi Arsenal Tecnológico (Backend & Data Core)
 
-<br/>
+🟢 **Node.js** &nbsp;&nbsp;|&nbsp;&nbsp; 🐬 **MySQL** &nbsp;&nbsp;|&nbsp;&nbsp; 🔌 **Socket.io** &nbsp;&nbsp;|&nbsp;&nbsp; 📘 **TypeScript**
+
+---
+
 
 
 
